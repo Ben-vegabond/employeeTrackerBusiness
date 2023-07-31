@@ -20,10 +20,10 @@ connection.connect((err) => {
 });
 
 // Function to start the application of CFONT 
-cfonts.say('Thomas & Friends \nSQL Employee Tracker', {
+cfonts.say('Benjamin \nSQL Employee Tracker', {
 	font: 'block',              // define the font face
 	align: 'left',              // define text alignment
-	colors: ['blue'],         // define all colors
+	colors: ['orange'],         // define all colors
 	background: 'transparent',  // define the background color, you can also use `backgroundColor` here as key
 	letterSpacing: 1,           // define letter spacing
 	lineHeight: 1,              // define the line height

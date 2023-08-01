@@ -7,7 +7,7 @@ const connection = mysql.createConnection({
     host: "localhost",
     port: 3306,
     user: "root",
-    password: "",
+    password: "vegavega",
     database: "employeeTracker_db",
 });
 
@@ -23,7 +23,7 @@ connection.connect((err) => {
 cfonts.say('Benjamin \nSQL Employee Tracker', {
 	font: 'block',              // define the font face
 	align: 'left',              // define text alignment
-	colors: ['orange'],         // define all colors
+	colors: ['candy'],         // define all colors
 	background: 'transparent',  // define the background color, you can also use `backgroundColor` here as key
 	letterSpacing: 1,           // define letter spacing
 	lineHeight: 1,              // define the line height

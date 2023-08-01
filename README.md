@@ -1,6 +1,6 @@
 # ✨employeeTrackerBusiness✨
 <!-- insert link to video -->
-![]()
+![Check IT](./assets/Screenshot%202023-07-31%20at%209.55.44%20PM.png)
 
 Welcome!
 As a new developer I am trying out different techniques with projects.
@@ -45,17 +45,11 @@ Here I have developed a Content Management System (CMS). This is a command-line 
 
 ## 🌐 How to Operate 
 
-
-1. Click "Get Started" to open the note taker.
-
-2. Enter text into the 'title' and 'text' fields
-
-3. Click the save icon (top right) to save the note.
-
-4. Click the + icon (top right) to add another note.
-
-5. Additional: Click the trash icon to delete saved notes.
-
+1. Open the content management systems (CMS).
+2. Open 'Intergrated Terminal' on 'server.js' and enter 'node server.js'
+3. Use the 'UP' and 'DOWN' arrow keys to navigate the command line. 
+4. Click 'enter' or 'return' on your respective choice.
+5. Follow all commad line prompts as directed until desired choice has been met.
 
 ## Built With
 - Saiyan Pride
@@ -70,4 +64,4 @@ Here I have developed a Content Management System (CMS). This is a command-line 
 ## 🔗Link
 
 <!-- insert link to githib  -->
--Here is the link to my [github]()
+-Here is the link to my [github](https://github.com/Ben-vegabond/employeeTrackerBusiness)
